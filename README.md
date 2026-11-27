@@ -33,7 +33,7 @@
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tiltful&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/t1ltxz-gxd"  alt="metrics"/>
+   <img src="https://metrics.lecoq.io/tiltful"  alt="metrics"/>
   </p>
 </details>
 
