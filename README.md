@@ -18,7 +18,7 @@
 </p>
 
 ## 📌 Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiltful&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/t1ltxz-gxd/ItManuals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiltful&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/tiltful/ItManuals)
 
 ## [🖥 Projects](markdown/my_projects/main.md)
 ## [😈 Git Gists](https://gist.github.com/tiltful)
@@ -29,9 +29,9 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ltxz-gxd&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiltful&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=t1ltxz-gxd&show_icons=true&theme=dark" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tiltful&show_icons=true&theme=dark" />
    <br>
    <img src="https://metrics.lecoq.io/t1ltxz-gxd"  alt="metrics"/>
   </p>
