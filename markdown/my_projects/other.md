@@ -1,8 +1,8 @@
 # Other
 - **Python**:
-  - [PDFtoAudio](https://github.com/t1ltxz-gxd/PDFtoAudio)
+  - [PDFtoAudio](https://github.com/tiltful/PDFtoAudio)
 - **Rust**:
-  - [RustyTemplate](https://github.com/t1ltxz-gxd/rusty-template)
-  - [Valentine](https://github.com/t1ltxz-gxd/valentine)
+  - [RustyTemplate](https://github.com/tiltful/rusty-template)
+  - [Valentine](https://github.com/tiltful/valentine)
 --------
 ### [BACK](main.md)
